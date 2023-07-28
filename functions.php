@@ -1,3 +1,3 @@
 <?php
-    //include 'customs/NameOfYourCustomPostType.php';
+    include 'customs/projets.php';
 ?>
